@@ -2,11 +2,11 @@
 
 Zebrafishes are injected with a *green fluorescence protein* (*GFP*) in order to visualize the cancer mass.
 
-**Author: Maria J. Carreira (CiTIUS, USC)**
+*Author: Maria J. Carreira (CiTIUS, USC)*
 
-**Collaborators: Nicolás Vila Blanco (CiTIUS), Pablo Cabezas-Sainz and Laura Sánchez (USC)**
+*Collaborators: Nicolás Vila Blanco (CiTIUS), Pablo Cabezas-Sainz and Laura Sánchez (Department of Zoology, Genetics and Physical Anthropology, USC)*
 
-**Reference paper: MJ Carreira, N Vila-Blanco, P Cabezas-Sainz and L Sánchez: ZFTool: a software for automatic quantificacion of cancer cell mass evolution in zebrafish. Applied Sciences 16 (11), 2021. DOI: 10.3390/app11167721.**
+*Reference paper: MJ Carreira, N Vila-Blanco, P Cabezas-Sainz and L Sánchez: ZFTool: a software for automatic quantificacion of cancer cell mass evolution in zebrafish. Applied Sciences 16 (11), 2021. DOI: 10.3390/app11167721.*
 
 ZFTool eliminates the auto-fluorescence of the zebrafish through computation of area with different intensity thresholds and automatically computing the auto-fluorescence threshold, which is established for both images at 0hpi and 24-48-72hpi (_hpi=hours post injection_), respectively. ZFTool then computes the cancer mass area and mean intensity for both images and calculates the **proliferation index**.
 
